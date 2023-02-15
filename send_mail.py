@@ -20,9 +20,9 @@ if __name__ == '__main__':
     sender = 'locke.lee@qq.com'
 
 
-#   smtp = smtplib.STMP()
-#   stmp.connect(mail_host, 25)
-#   smtp.loggin(mail_user, mail_passwd)
+    smtp = smtplib.STMP()
+    stmp.connect(mail_host, 25)
+    smtp.loggin(mail_user, mail_passwd)
 
 #   sender = 'locke.lee@qq.com'
 #   maai
