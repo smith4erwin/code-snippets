@@ -17,7 +17,7 @@ def get_message(content, subobject, fromm, to):
 
 if __name__ == '__main__':
     pass
-#   sender = 'locke.lee@qq.com'
+    sender = 'locke.lee@qq.com'
 
 
 #   smtp = smtplib.STMP()
